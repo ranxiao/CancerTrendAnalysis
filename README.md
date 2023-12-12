@@ -1,13 +1,13 @@
 # CancerTrendAnalysis
-L1 trend analysis code and samples for cancer lab values
+L1 trend analysis code and samples for cancer lab values\
 -Ran Xiao, Emory University, December 2023
 
 # Env setup using conda:
-## conda create --name cvxpy_env
-## conda activate cvxpy_env
-## conda install -c conda-forge cvxpy
-## conda install -c conda-forge pandas
-## conda install -c conda-forge matplotlib
+conda create --name cvxpy_env\
+conda activate cvxpy_env\
+conda install -c conda-forge cvxpy\
+conda install -c conda-forge pandas\
+conda install -c conda-forge matplotlib\
 
 # output:
 1. images of L1 trend filtering results,
